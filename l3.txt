@@ -12,35 +12,35 @@
   <li><a class="active" href="l7.html">Lesson 7</a></li>
 </ul>
 
-<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="900" cellpadding="8" cellspacing="10" align="center">
+<table border="7" background="purple.jpg" width="900" cellpadding="8" cellspacing="10" align="center">
 <tr height="40" bgcolor="pink">
 <th><b> CODE </b></th>
 </tr>
 <tr>
 <td>
-<img src="C:\Users\Jesusa Cuenca\Downloads\462568723_1075247880749329_822419348125546457_n.jpg" width="900" height="600">
+<img src="462568723_1075247880749329_822419348125546457_n.jpg" width="900" height="600">
 </td>
 </tr>
 </table>
 
-<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="900" cellpadding="8" cellspacing="10" align="center">
+<table border="7" background="purple.jpg" width="900" cellpadding="8" cellspacing="10" align="center">
 <tr height="40" bgcolor="pink">
 <th><b> BROWSER OUTPUT</b></th>
 </tr>
 <tr>
 <td>
-<img src="C:\Users\Jesusa Cuenca\Downloads\462584338_911252657345212_5200160196734586881_n.jpg" width="900" height="600">
+<img src="462584338_911252657345212_5200160196734586881_n.jpg" width="900" height="600">
 </td>
 </tr>
 </table>
 
-<table border="7" background="C:\Users\Jesusa Cuenca\OneDrive\Documents\Odrie\purple.jpg" width="900" cellpadding="8" cellspacing="10" align="center">
+<table border="7" background="purple.jpg" width="900" cellpadding="8" cellspacing="10" align="center">
 <tr height="40" bgcolor="pink">
 <th><b> CSS</b></th>
 </tr>
 <tr>
 <td>
-<img src="C:\Users\Jesusa Cuenca\Downloads\467740513_8687011414738998_1176627955034218282_n.jpg" width="900" height="600">
+<img src="467740513_8687011414738998_1176627955034218282_n.jpg" width="900" height="600">
 </td>
 </tr>
 </table>
