@@ -16,6 +16,11 @@
 <h1>
 All lessons this 2nd quarter!!
 </h1>
+<h2>Play me! (Paraluman by Adie) </h2>
+
+<audio controls>
+<source src="audio (2).mp3" type="audio/mp3">
+</audio>
  
 </body>
 </html>
